@@ -1,0 +1,82 @@
+@tailwind base;
+
+a {
+  @apply text-blue-700;
+}
+
+a:hover {
+  @apply border-b-2 border-blue-700;
+}
+
+@tailwind components;
+
+@tailwind utilities;
+
+.content p {
+  @apply my-6;
+}
+
+.content ul {
+  @apply my-6;
+}
+
+.image-columns {
+  display:flex;
+  justify-content: space-between;
+}
+
+.logoimg {
+  display: block;
+  margin: auto;
+  width:70%;
+  height: auto;
+}
+
+.spacing1 {
+  margin-bottom: 10px;
+  margin-top: 80px;
+}
+
+body {
+  text-align: center;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  margin-bottom: 50px;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  border-radius: 20px;
+  background-color: #f2f2f2;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+input[type="text"] {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  padding: 10px;
+  flex: 1;
+}
+
+button[type="submit"] {
+  background-color: #37c83c;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 0 20px 20px 0;
+  cursor: pointer;
+}
+
+.center-indent {
+  padding-left: 50%;
+}
