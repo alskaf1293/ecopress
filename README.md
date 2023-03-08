@@ -1,5 +1,5 @@
 # ecopress
-##Inspiration
+## Inspiration
 My group and I were inspired by a discussion we had before starting the project. When we found out our technology had to solve a problem related to sustainability, neither of us had much clue which path to follow since we didn't have much knowledge of this area. This is what made us realize just how much people nowadays lack knowledge and awareness of several relevant environmental issues society faces, despite us living in the an era of technology. Therefore, we realized that creating a website centered around creating and developing a community of people that are eager to learn more about sustainability would be a good idea. We also came to the conclusion that much of us had little knowledge on the topic of sustainability because we didn't reserve a specific time of our days to learn more about it. Therefore, our website was also inspired in making sure that sustainability related news is accessible to people that are interested in this subject and that these people can read only about what interests them.
 
 ##What it does
